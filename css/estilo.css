@@ -1,0 +1,28 @@
+/* Estilo global */
+* 
+
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos específicos */
+  body {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 200px;
+    color: aqua;
+
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #e40c0c;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #093ce4;
+  }
