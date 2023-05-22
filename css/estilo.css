@@ -1,28 +1,28 @@
 /* Estilo global */
-* 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
-{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-  
-  /* Estilos específicos */
-  body {
-    font-family: sans-serif;
-    text-align: center;
-    font-size: 200px;
-    color: aqua;
+/* Estilos específicos */
+body {
+  color: #333;
+  text-align: center;
+  font-family: arial;
+  font-size: 16px;
+  margin: 0;
+  padding: 0
+}
 
-  }
-  
-  h1 {
-    font-size: 24px;
-    color: #e40c0c;
-  }
-  
-  p {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #093ce4;
-  }
+#container {
+  width: 70%;
+  padding: 1em;
+  text-align: left;
+  border: 1px solid #ddd;
+  margin: 0 auto
+}
+
+#container h1 {
+  font-size: 20px
+}
