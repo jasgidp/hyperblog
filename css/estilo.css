@@ -37,3 +37,10 @@ body {
 #post {
   padding: 1em
 }
+
+#footer{
+  background-color: beige;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
