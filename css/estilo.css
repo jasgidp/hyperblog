@@ -41,12 +41,18 @@ body
     margin: 0 auto;
 }
 
-#post {
-  padding: 1em
+#container h1
+{
+    font-size: 20px;
+}
+#post
+{
+    background: white;
+    padding: 1em;
 }
 
 #footer{
-  background-color: beige;
+  background-color: rgb(26, 161, 78);
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
